@@ -1,6 +1,6 @@
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/byRo0t96/byRo0t96/blob/main/images/r_208664_Bvxd5.gif"> 
-</p>
+
 
 
   <summary>:zap: Github Stats</summary>
@@ -14,3 +14,4 @@
 <!--details-->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/byro0t96)](https://github.com/byro0t96)
+</p>
