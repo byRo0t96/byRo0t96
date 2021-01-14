@@ -2,10 +2,10 @@
     <img width="50%" src="https://github.com/byRo0t96/byRo0t96/blob/main/images/r_208664_Bvxd5.gif"> 
 </p>
 
-<details>
+
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=byro0t96&&show_icons=true">
-</details>
+  <img src="https://github-readme-stats.vercel.app/api?username=byro0t96&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+
 
 <details>
   <summary>:zap: Languages Used</summary>
