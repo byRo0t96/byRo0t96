@@ -4,7 +4,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=byro0t96&&show_icons=true>
+  <img src="https://github-readme-stats.vercel.app/api?username=byro0t96&&show_icons=true">
 </details>
 
 <details>
