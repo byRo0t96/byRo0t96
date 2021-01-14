@@ -6,12 +6,11 @@
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=byro0t96&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 
-
-<details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byro0t96&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-<br/>
 
+
+<br/>
+<!--details-->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/byro0t96)](https://github.com/byro0t96)
