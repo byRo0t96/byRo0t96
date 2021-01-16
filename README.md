@@ -4,11 +4,11 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=byro0t96&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=byro0t96&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=0d1117">
 </details>
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byro0t96&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byro0t96&layout=compact&bg_color=0d1117&text_color=ffffff">
 </details>
 
 <br/>
